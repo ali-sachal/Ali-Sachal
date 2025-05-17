@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:I am Ali Sachal Abdullah
+# 💫 I am Ali Sachal Abdullah
 I am Flutter Developer<br> I am currently working on Game In (Personal Project)<br>with High Tech Industry<br>Machine Learning<br>Flutter , Java , Python , Dart ,  C ,  C++ , Js  PhP , Go , Laravel 
 
 
